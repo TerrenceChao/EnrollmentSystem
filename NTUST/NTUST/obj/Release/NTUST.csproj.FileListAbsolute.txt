@@ -1,0 +1,80 @@
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\NTUST.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\NTUST.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\NTUST.pdb
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\Antlr3.Runtime.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\EntityFramework.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\Newtonsoft.Json.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Helpers.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Mvc.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Optimization.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Razor.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.Razor.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\WebGrease.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Helpers.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Mvc.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Optimization.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.Razor.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\System.Web.WebPages.Razor.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\bin\Antlr3.Runtime.pdb
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\obj\Release\NTUST.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\obj\Release\NTUST.dll
+c:\users\pc\documents\visual studio 2013\Projects\NTUST\NTUST\obj\Release\NTUST.pdb
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\NTUST.dll.config
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\NTUST.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\NTUST.pdb
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\Antlr3.Runtime.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\EntityFramework.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\EntityFramework.SqlServer.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\Newtonsoft.Json.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Helpers.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Mvc.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Optimization.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Razor.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.Deployment.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.Razor.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\WebGrease.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\EntityFramework.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\EntityFramework.SqlServer.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Helpers.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Mvc.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Optimization.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.Razor.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.Deployment.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\System.Web.WebPages.Razor.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\Newtonsoft.Json.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\Antlr3.Runtime.pdb
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.pdb
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\PagedList.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\PagedList.Mvc.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\PagedList.xml
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\PagedList.Mvc.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\bin\PagedList.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\bin\PagedList.Mvc.dll
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\bin\PagedList.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\bin\PagedList.Mvc.xml
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\obj\Release\NTUST.Migrations.InitialCreate.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\NTUST\NTUST\obj\Release\NTUST.csproj.GenerateResource.Cache
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.InitialCreate.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.csproj.GenerateResource.Cache
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.MaxLengthOnNames.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.ColumnFirstName.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.csprojResolveAssemblyReference.cache
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.ComplexDataModel.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.DepartmentSP.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.RowVersion.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.Inheritance.resources
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\bin\AjaxControlToolkit.dll
+D:\Visual_Studio_Projects\VS2013\NTUST\NTUST\obj\Release\NTUST.Migrations.CourseSPAndConcurrencyIssue.resources

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<NTUST.Models.Student>
+
+@{
+    ViewBag.Title = "Students";
+}
+
+<h2>Students</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search"/>
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstMidName)
+        </th>
+        <th>
+            @Html.ActionLink("Enrollment Date", "Index", new { sortOrder = ViewBag.DateSortParm })
+        </th>
+
+        <th>Course</th>
+
+        <th></th>
+    </tr>
+
+@foreach (var student in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => student.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => student.FirstMidName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => student.EnrollmentDate)
+        </td>
+        <td>
+            @foreach (var item in student.Enrollments)
+            {
+                @Html.DisplayFor(courseTitle => item.CourseID) @: 
+                @Html.DisplayFor(courseTitle => item.Course.Title)<br />
+            }
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=student.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=student.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=student.ID })
+        </td>
+    </tr>
+}
+
+</table>
